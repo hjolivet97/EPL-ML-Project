@@ -9,21 +9,35 @@ or game performances of teams that are successful. Each row represents one match
 -Home Team
 
 -Away Team
-#
+
 -Goals
+
 -Posession Percentage
+
 -Shots on Target
+
 -Total Shots
+
 -Total Touches on Ball
+
 -Total Passes
+
 -Total Number of Tackles
+
 -Total Number of Clearances
+
 -Total Number of Corners
+
 -Total Number of Yellow Cards
+
 -Total Number of Red Cards
+
 -Total Number of Fouls
+
 -Winner
+
 -Match Week
+
 -Season
 
 For the Winner column, 0 represents a Tie, 1 represents a Home Team Win, 2 represents an Away Team Win.
