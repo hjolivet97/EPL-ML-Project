@@ -7,7 +7,9 @@ This data set offers insight into the common trends and patterns of winning team
 or game performances of teams that are successful. Each row represents one match and contains the following columns for a Home and Away team:
 
 -Home Team
+
 -Away Team
+#
 -Goals
 -Posession Percentage
 -Shots on Target
